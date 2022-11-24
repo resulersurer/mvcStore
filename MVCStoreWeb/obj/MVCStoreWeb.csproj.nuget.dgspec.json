@@ -1,0 +1,307 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Resul Ersürer\\source\\repos\\mvcStore1\\MVCStoreWeb\\MVCStoreWeb.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Resul Ersürer\\source\\repos\\mvcStore1\\MigrationsNpgsql\\MigrationsNpgsql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Resul Ersürer\\source\\repos\\mvcStore1\\MigrationsNpgsql\\MigrationsNpgsql.csproj",
+        "projectName": "MigrationsNpgsql",
+        "projectPath": "C:\\Users\\Resul Ersürer\\source\\repos\\mvcStore1\\MigrationsNpgsql\\MigrationsNpgsql.csproj",
+        "packagesPath": "C:\\Users\\Resul Ersürer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Resul Ersürer\\source\\repos\\mvcStore1\\MigrationsNpgsql\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Resul Ersürer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Resul Ersürer\\source\\repos\\mvcStore1\\MVCStoreData\\MVCStoreData.csproj": {
+                "projectPath": "C:\\Users\\Resul Ersürer\\source\\repos\\mvcStore1\\MVCStoreData\\MVCStoreData.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Resul Ersürer\\source\\repos\\mvcStore1\\MigrationsSqlServer\\MigrationsSqlServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Resul Ersürer\\source\\repos\\mvcStore1\\MigrationsSqlServer\\MigrationsSqlServer.csproj",
+        "projectName": "MigrationsSqlServer",
+        "projectPath": "C:\\Users\\Resul Ersürer\\source\\repos\\mvcStore1\\MigrationsSqlServer\\MigrationsSqlServer.csproj",
+        "packagesPath": "C:\\Users\\Resul Ersürer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Resul Ersürer\\source\\repos\\mvcStore1\\MigrationsSqlServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Resul Ersürer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Resul Ersürer\\source\\repos\\mvcStore1\\MVCStoreData\\MVCStoreData.csproj": {
+                "projectPath": "C:\\Users\\Resul Ersürer\\source\\repos\\mvcStore1\\MVCStoreData\\MVCStoreData.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Resul Ersürer\\source\\repos\\mvcStore1\\MVCStoreData\\MVCStoreData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Resul Ersürer\\source\\repos\\mvcStore1\\MVCStoreData\\MVCStoreData.csproj",
+        "projectName": "MVCStoreData",
+        "projectPath": "C:\\Users\\Resul Ersürer\\source\\repos\\mvcStore1\\MVCStoreData\\MVCStoreData.csproj",
+        "packagesPath": "C:\\Users\\Resul Ersürer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Resul Ersürer\\source\\repos\\mvcStore1\\MVCStoreData\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Resul Ersürer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Resul Ersürer\\source\\repos\\mvcStore1\\MVCStoreWeb\\MVCStoreWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Resul Ersürer\\source\\repos\\mvcStore1\\MVCStoreWeb\\MVCStoreWeb.csproj",
+        "projectName": "MVCStoreWeb",
+        "projectPath": "C:\\Users\\Resul Ersürer\\source\\repos\\mvcStore1\\MVCStoreWeb\\MVCStoreWeb.csproj",
+        "packagesPath": "C:\\Users\\Resul Ersürer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Resul Ersürer\\source\\repos\\mvcStore1\\MVCStoreWeb\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Resul Ersürer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Resul Ersürer\\source\\repos\\mvcStore1\\MigrationsNpgsql\\MigrationsNpgsql.csproj": {
+                "projectPath": "C:\\Users\\Resul Ersürer\\source\\repos\\mvcStore1\\MigrationsNpgsql\\MigrationsNpgsql.csproj"
+              },
+              "C:\\Users\\Resul Ersürer\\source\\repos\\mvcStore1\\MigrationsSqlServer\\MigrationsSqlServer.csproj": {
+                "projectPath": "C:\\Users\\Resul Ersürer\\source\\repos\\mvcStore1\\MigrationsSqlServer\\MigrationsSqlServer.csproj"
+              },
+              "C:\\Users\\Resul Ersürer\\source\\repos\\mvcStore1\\MVCStoreData\\MVCStoreData.csproj": {
+                "projectPath": "C:\\Users\\Resul Ersürer\\source\\repos\\mvcStore1\\MVCStoreData\\MVCStoreData.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

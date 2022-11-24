@@ -1,0 +1,15 @@
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsSqlServer\bin\Debug\net6.0\MigrationsSqlServer.deps.json
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsSqlServer\bin\Debug\net6.0\MigrationsSqlServer.dll
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsSqlServer\bin\Debug\net6.0\MigrationsSqlServer.pdb
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsSqlServer\obj\Debug\net6.0\MigrationsSqlServer.csproj.AssemblyReference.cache
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsSqlServer\obj\Debug\net6.0\MigrationsSqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsSqlServer\obj\Debug\net6.0\MigrationsSqlServer.AssemblyInfoInputs.cache
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsSqlServer\obj\Debug\net6.0\MigrationsSqlServer.AssemblyInfo.cs
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsSqlServer\obj\Debug\net6.0\MigrationsSqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsSqlServer\obj\Debug\net6.0\MigrationsSqlServer.dll
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsSqlServer\obj\Debug\net6.0\refint\MigrationsSqlServer.dll
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsSqlServer\obj\Debug\net6.0\MigrationsSqlServer.pdb
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsSqlServer\obj\Debug\net6.0\ref\MigrationsSqlServer.dll
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsSqlServer\bin\Debug\net6.0\MVCStoreData.dll
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsSqlServer\bin\Debug\net6.0\MVCStoreData.pdb
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsSqlServer\obj\Debug\net6.0\MigrationsSqlServer.csproj.CopyComplete

@@ -1,0 +1,17 @@
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsNpgsql\bin\Debug\net6.0\MigrationsNpgsql.deps.json
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsNpgsql\bin\Debug\net6.0\MigrationsNpgsql.dll
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsNpgsql\bin\Debug\net6.0\MigrationsNpgsql.pdb
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsNpgsql\bin\Debug\net6.0\MVCStoreData.dll
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsNpgsql\bin\Debug\net6.0\MVCStoreData.pdb
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsNpgsql\obj\Debug\net6.0\MigrationsNpgsql.csproj.AssemblyReference.cache
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsNpgsql\obj\Debug\net6.0\MigrationsNpgsql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsNpgsql\obj\Debug\net6.0\MigrationsNpgsql.AssemblyInfoInputs.cache
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsNpgsql\obj\Debug\net6.0\MigrationsNpgsql.AssemblyInfo.cs
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsNpgsql\obj\Debug\net6.0\MigrationsNpgsql.csproj.CoreCompileInputs.cache
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsNpgsql\obj\Debug\net6.0\MigrationsNpgsql.csproj.CopyComplete
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsNpgsql\obj\Debug\net6.0\MigrationsNpgsql.dll
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsNpgsql\obj\Debug\net6.0\refint\MigrationsNpgsql.dll
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsNpgsql\obj\Debug\net6.0\MigrationsNpgsql.pdb
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsNpgsql\obj\Debug\net6.0\ref\MigrationsNpgsql.dll
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsNpgsql\bin\Debug\net6.0\MigrationsNpgsql.runtimeconfig.json
+C:\Users\Resul Ersürer\source\repos\mvcStore1\MigrationsNpgsql\obj\Debug\net6.0\MigrationsNpgsql.genruntimeconfig.cache
